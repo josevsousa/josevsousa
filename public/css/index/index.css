@@ -1,0 +1,39 @@
+.contato label{
+  display: flex !important;
+}
+.cart_experiencia {
+    border-bottom: 1px solid #e4e0e0;
+}
+.cart_experiencia h4{
+  color: #8d0ea2;
+}.cart_formacao {
+    border-bottom: 1px solid #e4e0e0;
+}
+.cart_formacao h4{
+  color: #8d0ea2;
+}
+p.fone_contato {
+    color: #999999;
+}
+.contato_enviado {
+    color: #10ea24;
+	}.contato_enviado i {
+    	font-size: 4pc;
+		}
+
+
+.formLoad img {
+    	width: auto !important;
+	}
+.label-default{
+  background-color: #9c27b0 !important;
+}
+
+#habilidades spam{
+  font-size: large;
+}
+
+.btn-simple-b{
+  color: #9c27b0 !important;
+  font-size: xx-large !important;
+}
