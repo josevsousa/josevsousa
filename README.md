@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**josevsousa/josevsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3A76F0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevicentedesousa/)](https://www.linkedin.com/in/josevicentedesousa/)
+[![Personal Badge](https://img.shields.io/badge/-Website-EA4335?style=flat-square&logo=Me&logoColor=white&link=https://www.josevicentedesousa.netlify.app/)](https://josevicentedesousa.neflify.app/)
+[![Gmail Badge](https://img.shields.io/badge/-jose.vicente.de.sousa@gmail.com-941711?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.vicente.de.sousa@gmail.com)](mailto:jose.vicente.de.sousa@gmail.com)
+<!-- 
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[FIGMA__BADGE]: https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma
+[NETLIFY__BADGE]: https://img.shields.io/badge/Netlify-red?style=for-the-badge&logo=netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+![javascript][JAVASCRIPT__BADGE]
+![netlify][NETLIFY__BADGE]
+![figma][FIGMA__BADGE] -->
+
+
+<!-- <img align="right" alt="Code image" src="./code.jpg"  width="300px" /> -->
+
+## My name is José Vicente de Sousa
+( Nodejs | Firebase | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+<!-- - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/) -->
+- 👩‍💻 Free Lancer 
+- 🏆 Fullstack Angular
+- 🎓 Analise System Student @ [UMC](https://www.umc.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+
+<br>
+
+<div align="left">
+  
+[![JoseVSousa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevsousa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
