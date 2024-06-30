@@ -4,18 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3A76F0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevicentedesousa/)](https://www.linkedin.com/in/josevicentedesousa/)
 [![Personal Badge](https://img.shields.io/badge/-Website-EA4335?style=flat-square&logo=Me&logoColor=white&link=https://www.josevicentedesousa.netlify.app/)](https://josevicentedesousa.neflify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-jose.vicente.de.sousa@gmail.com-941711?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.vicente.de.sousa@gmail.com)](mailto:jose.vicente.de.sousa@gmail.com)
-<!-- 
+
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [FIGMA__BADGE]: https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma
 [NETLIFY__BADGE]: https://img.shields.io/badge/Netlify-red?style=for-the-badge&logo=netlify
 
-![angular][ANGULAR__BADGE]
-![typescript][TYPESCRIPT__BADGE]
-![javascript][JAVASCRIPT__BADGE]
-![netlify][NETLIFY__BADGE]
-![figma][FIGMA__BADGE] -->
 
 
 <!-- <img align="right" alt="Code image" src="./code.jpg"  width="300px" /> -->
@@ -32,19 +27,16 @@
 <br>
 
 <div align="left">
-  [![JoseVSousa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevsousa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  
+[![JoseVSousa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevsousa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[FIREBASE__BADGE]: https://img.shields.io/badge/Firebase-F00?style=for-the-badge&logo=firebase
-[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
-[FIGMA__BADGE]: https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma
-[NETLIFY__BADGE]: https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify
+<br>
 
 ![angular][ANGULAR__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![javascript][JAVASCRIPT__BADGE]
-![firebase][FIREBASE__BADGE]
 ![netlify][NETLIFY__BADGE]
-![figma][FIGMA__BADGE]
+![figma][FIGMA__BADGE] 
+
