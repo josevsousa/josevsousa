@@ -28,11 +28,23 @@
 - 🎓 Analise System Student @ [UMC](https://www.umc.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
-
+ 
 <br>
 
 <div align="left">
-  
-[![JoseVSousa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevsousa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+  [![JoseVSousa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevsousa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[FIREBASE__BADGE]: https://img.shields.io/badge/Firebase-F00?style=for-the-badge&logo=firebase
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[FIGMA__BADGE]: https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma
+[NETLIFY__BADGE]: https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify
+
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+![javascript][JAVASCRIPT__BADGE]
+![firebase][FIREBASE__BADGE]
+![netlify][NETLIFY__BADGE]
+![figma][FIGMA__BADGE]
