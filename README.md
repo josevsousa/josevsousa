@@ -2,7 +2,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3A76F0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevicentedesousa/)](https://www.linkedin.com/in/josevicentedesousa/)
-[![Personal Badge](https://img.shields.io/badge/-Website-EA4335?style=flat-square&logo=Me&logoColor=white&link=https://www.josevicentedesousa.netlify.app/)](https://josevicentedesousa.neflify.app/)
+[![Personal Badge](https://img.shields.io/badge/-Website-EA4335?style=flat-square&logo=Me&logoColor=white&link=https://www.josevicentedesousa.netlify.app/)](https://josevicentedesousa.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-jose.vicente.de.sousa@gmail.com-941711?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.vicente.de.sousa@gmail.com)](mailto:jose.vicente.de.sousa@gmail.com)
 
 
