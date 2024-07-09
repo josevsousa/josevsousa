@@ -14,7 +14,7 @@
 <!-- - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/) -->
 - 👩‍💻 Free Lancer 
 - 🏆 Fullstack Angular
-- 🎓 Analise System Student @ [UMC](https://www.umc.br/)
+- 🎓 Analise System Student @[UMC](https://www.umc.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
  
